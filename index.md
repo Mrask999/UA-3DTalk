@@ -1,8 +1,8 @@
 # NeRF-3DTalker: Neural Radiance Field with 3D Prior Aided Audio Disentanglement for Talking Head Synthesis
 
-<div style="text-align:center; font-size:14px; margin-top:10px; margin-bottom:20px;">
+<p style="text-align:center; font-size:14px; margin:0;">
   Nanhan Shen, Zhilei Liu
-</div>
+</p>
 
 
 
@@ -16,6 +16,17 @@
 </div>
 
 ![Alt text](pipeline_final.png)
+
+
+## Uncertainty-based Fusion
+---
+
+<div style="text-align: justify;">
+  We carefully designed uncertainty-based fusion module, where both AU and EU have been taken into consideration. The details can be found in our paper.
+</div>
+
+![Alt text](uncertainty_fusion4-1.png)
+
 
 ## Contact
 ---
