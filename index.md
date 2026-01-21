@@ -1,6 +1,7 @@
 # NeRF-3DTalker: Neural Radiance Field with 3D Prior Aided Audio Disentanglement for Talking Head Synthesis
 
-<p align="center"><sub>Nanhan Shen, Zhilei Liu</sub></p>
+<p align="center"><em>Nanhan Shen, Zhilei Liu</em></p>
+<p align="center">College of Intelligence and Computing, Tianjin University, Tianjin, China</p>
  
 
 ## Abstract & Method
