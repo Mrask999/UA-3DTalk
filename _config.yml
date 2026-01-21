@@ -1,0 +1,4 @@
+# theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+title: NeRF-3DTalker: Neural Radiance Field with 3D Prior Aided Audio Disentanglement for Talking Head Synthesis
+description: The supplement materials of paper "NeRF-3DTalker: Neural Radiance Field with 3D Prior Aided Audio Disentanglement for Talking Head Synthesis"
