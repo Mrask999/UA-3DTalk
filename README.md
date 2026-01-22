@@ -91,11 +91,6 @@ UNCERTAINTY-AWARE 3D EMOTIONAL TALKING FACE SYNTHESIS WITH EMOTION PRIOR DISTILL
 
 
 
-
-
-
-
-
 <div style="display: flex; justify-content: center;">
 <table style="border-collapse: collapse; width: 90%; text-align: center;">
   <tr>
@@ -138,5 +133,10 @@ UNCERTAINTY-AWARE 3D EMOTIONAL TALKING FACE SYNTHESIS WITH EMOTION PRIOR DISTILL
   </tr>
 </table>
 </div>
+
+
+
+
+
 
 
