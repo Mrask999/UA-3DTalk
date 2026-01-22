@@ -61,7 +61,7 @@ UNCERTAINTY-AWARE 3D EMOTIONAL TALKING FACE SYNTHESIS WITH EMOTION PRIOR DISTILL
 --
 
 <div style="text-align: justify;">
-  Before training, you should possess the check point of NeRF-3DTalker(including Wav2lip in it) and CA-MSER. 
+  Before training, you should possess the check point of NeRF-3DTalker(including Wav2lip in it) and CA-MSER of your target video, links are shown as above. 
   With them, you can have f_exp, f_tone in Prior Extration and emotional embedded audio feature (input of code-book in Emotion Distillation).
   Put all of them in ./data/<Your Actore Name>/ and run ./scripts/train.sh
 </div>
