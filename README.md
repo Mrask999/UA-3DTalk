@@ -51,6 +51,7 @@ UNCERTAINTY-AWARE 3D EMOTIONAL TALKING FACE SYNTHESIS WITH EMOTION PRIOR DISTILL
 ## Environment and Pre-process
 <div style="text-align: justify;">
   We implement our work with Python 3.7 on H20.
+  Details can be found in requirements.txt
   The data pre-process follows works: Talking-Gaussian and NeRF-3DTalker. 
 </div>
 
