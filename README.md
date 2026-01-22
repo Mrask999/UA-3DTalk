@@ -30,6 +30,13 @@ UNCERTAINTY-AWARE 3D EMOTIONAL TALKING FACE SYNTHESIS WITH EMOTION PRIOR DISTILL
 
   <tr>
     <td style="border: 1px solid #ccc; padding: 8px;">
+      <a href="https://github.com/Fictionarry/TalkingGaussian" target="_blank">🌐 Talking-Gaussian</a>
+    </td>
+    <td style="border: 1px solid #ccc; padding: 8px;">Baseline</td>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid #ccc; padding: 8px;">
       <a href="https://github.com/Vincent-ZHQ/CA-MSER" target="_blank">🌐 CA-MSER</a>
     </td>
     <td style="border: 1px solid #ccc; padding: 8px;">Emotion Distillation</td>
