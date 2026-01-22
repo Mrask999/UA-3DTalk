@@ -7,90 +7,6 @@ UNCERTAINTY-AWARE 3D EMOTIONAL TALKING FACE SYNTHESIS WITH EMOTION PRIOR DISTILL
 </div>
 
 
-<p align="center">
-  <a href="https://github.com/Rudrabha/Wav2Lip" target="_blank">
-    <button style="
-      padding: 10px 18px;
-      font-size: 16px;
-      border-radius: 6px;
-      border: none;
-      background-color: #4CAF50;
-      color: white;
-      cursor: pointer;
-    ">
-      🌐 Wav2lip
-    </button>
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/NeRF-3DTalker/NeRF-3DTalker-code" target="_blank">
-    <button style="
-      padding: 10px 18px;
-      font-size: 16px;
-      border-radius: 6px;
-      border: none;
-      background-color: #4CAF50;
-      color: white;
-      cursor: pointer;
-    ">
-      🌐 NeRF-3DTalker
-    </button>
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/Fictionarry/TalkingGaussian" target="_blank">
-    <button style="
-      padding: 10px 18px;
-      font-size: 16px;
-      border-radius: 6px;
-      border: none;
-      background-color: #4CAF50;
-      color: white;
-      cursor: pointer;
-    ">
-      🌐 Talking-Gaussian
-    </button>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Vincent-ZHQ/CA-MSER" target="_blank">
-    <button style="
-      padding: 10px 18px;
-      font-size: 16px;
-      border-radius: 6px;
-      border: none;
-      background-color: #4CAF50;
-      color: white;
-      cursor: pointer;
-    ">
-      🌐 CA-MSER
-    </button>
-  </a>
-</p>
-
-<div style="text-align: justify;">
-  We appreciate their prior contributions and open-soure code!
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div style="display: flex; justify-content: center;">
 <table style="border-collapse: collapse; width: 90%; text-align: center;">
   <tr>
@@ -100,10 +16,27 @@ UNCERTAINTY-AWARE 3D EMOTIONAL TALKING FACE SYNTHESIS WITH EMOTION PRIOR DISTILL
 
   <tr>
     <td style="border: 1px solid #ccc; padding: 8px;">
-      <a href="https://github.com/Rudrabha/Wav2Lip" target="_blank">Wav2Lip</a>
+      <a href="https://github.com/Rudrabha/Wav2Lip" target="_blank">🌐 Wav2lip</a>
     </td>
-    <td style="border: 1px solid #ccc; padding: 8px;">Prior Extraction</td>
+    <td style="border: 1px solid #ccc; padding: 8px;">Prior Extraction(Lip Expert)</td>
+  </tr>
+  
+  <tr>
+    <td style="border: 1px solid #ccc; padding: 8px;">
+      <a href="https://github.com/NeRF-3DTalker/NeRF-3DTalker-code" target="_blank">🌐 NeRF-3DTalker</a>
+    </td>
+    <td style="border: 1px solid #ccc; padding: 8px;">Prior Extraction(Style Net)</td>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid #ccc; padding: 8px;">
+      <a href="https://github.com/Vincent-ZHQ/CA-MSER" target="_blank">🌐 CA-MSER</a>
+    </td>
+    <td style="border: 1px solid #ccc; padding: 8px;">Emotion Distillation</td>
   </tr>
 </table>
 </div>
 
+<div style="text-align: justify;">
+  We appreciate their prior contributions and open-soure code!
+</div>
