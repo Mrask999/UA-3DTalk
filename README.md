@@ -49,19 +49,21 @@ UNCERTAINTY-AWARE 3D EMOTIONAL TALKING FACE SYNTHESIS WITH EMOTION PRIOR DISTILL
 </div>
 
 ## Environment and Pre-process
---
-
 <div style="text-align: justify;">
   We implement our work with Python 3.7 on H20.
   The data pre-process follows works: Talking-Gaussian and NeRF-3DTalker. 
 </div>
 
 
-## Training
---
+## **Training**
+Before training, you should possess the check point of NeRF-3DTalker(including Wav2lip in it) and CA-MSER of your target video, links are shown as above. 
+With them, you can have f_exp, f_tone in Prior Extration and emotional embedded audio feature (input of code-book in Emotion Distillation).
+Put all of them in 
+```bash
+  ./data/<Your Actore Name>/ 
+```
+and run 
+```bash
+  ./scripts/train.sh
+```
 
-<div style="text-align: justify;">
-  Before training, you should possess the check point of NeRF-3DTalker(including Wav2lip in it) and CA-MSER of your target video, links are shown as above. 
-  With them, you can have f_exp, f_tone in Prior Extration and emotional embedded audio feature (input of code-book in Emotion Distillation).
-  Put all of them in ./data/<Your Actore Name>/ and run ./scripts/train.sh
-</div>
