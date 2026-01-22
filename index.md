@@ -14,10 +14,18 @@
       color: white;
       cursor: pointer;
     ">
-      🌐 Project Website
+      🌐 Core Code
     </button>
   </a>
 </p>
+
+
+## Brief Introducing
+---
+
+<div style="text-align: justify;">
+  这儿会放一个介绍paper和展示results的mp4文件
+</div>
 
  
 ## Abstract & Method
@@ -54,7 +62,7 @@
 --
 
 <div style="text-align: justify;">
-  Compared with our baseline, our
+  Compared with our baseline, our training time has increased by an average of 35 minutes on HDTF(45min -> 1h20min) and 55 minutes on MEAD(1h15min -> 2h10min).
 </div>
 
 ## Contact
