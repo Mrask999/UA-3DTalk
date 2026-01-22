@@ -94,49 +94,16 @@ UNCERTAINTY-AWARE 3D EMOTIONAL TALKING FACE SYNTHESIS WITH EMOTION PRIOR DISTILL
 <div style="display: flex; justify-content: center;">
 <table style="border-collapse: collapse; width: 90%; text-align: center;">
   <tr>
-    <th style="border: 1px solid #ccc; padding: 8px;">Method</th>
-    <th style="border: 1px solid #ccc; padding: 8px;">E-FID ↓</th>
-    <th style="border: 1px solid #ccc; padding: 8px;">SyncC ↑</th>
-    <th style="border: 1px solid #ccc; padding: 8px;">LPIPS ↓</th>
-    <th style="border: 1px solid #ccc; padding: 8px;">Link</th>
+    <th style="border: 1px solid #ccc; padding: 8px;">Model name</th>
+    <th style="border: 1px solid #ccc; padding: 8px;">Usage</th>
   </tr>
 
   <tr>
-    <td style="border: 1px solid #ccc; padding: 8px;">DEGSTalk</td>
-    <td style="border: 1px solid #ccc; padding: 8px;">0.215</td>
-    <td style="border: 1px solid #ccc; padding: 8px;">0.742</td>
-    <td style="border: 1px solid #ccc; padding: 8px;">0.186</td>
     <td style="border: 1px solid #ccc; padding: 8px;">
-      <a href="https://example.com" target="_blank">Website</a>
+      <a href="https://github.com/Rudrabha/Wav2Lip" target="_blank">Wav2Lip</a>
     </td>
-  </tr>
-
-  <tr>
-    <td style="border: 1px solid #ccc; padding: 8px;"><b>UA-3DTalk (Ours)</b></td>
-    <td style="border: 1px solid #ccc; padding: 8px;"><b>0.192</b></td>
-    <td style="border: 1px solid #ccc; padding: 8px;"><b>0.779</b></td>
-    <td style="border: 1px solid #ccc; padding: 8px;"><b>0.164</b></td>
-    <td style="border: 1px solid #ccc; padding: 8px;">
-      <a href="https://your-website-link.com" target="_blank">
-        <button style="
-          padding: 6px 12px;
-          border-radius: 5px;
-          border: none;
-          background-color: #4CAF50;
-          color: white;
-          cursor: pointer;
-        ">
-          🌐 Website
-        </button>
-      </a>
-    </td>
+    <td style="border: 1px solid #ccc; padding: 8px;">Prior Extraction</td>
   </tr>
 </table>
 </div>
-
-
-
-
-
-
 
