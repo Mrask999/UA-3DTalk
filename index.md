@@ -62,7 +62,7 @@
 --
 
 <div style="text-align: justify;">
-  Compared with our baseline, our training time has increased by an average of 35 minutes on HDTF(45min -> 1h20min) and 55 minutes on MEAD(1h15min -> 2h10min).
+  Compared with our baseline (Data pre-process is not included), our training time has increased by an average of 35 minutes on HDTF(45min -> 1h20min) and 55 minutes on MEAD(1h15min -> 2h10min).
 </div>
 
 ## Contact
