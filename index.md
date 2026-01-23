@@ -24,7 +24,7 @@
 ---
 
 <div style="text-align: justify;">
-  这儿会放一个介绍paper和展示results的mp4文件
+  Video coming soon!
 </div>
 
  
