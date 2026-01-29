@@ -1,4 +1,4 @@
-# NeRF-3DTalker: Neural Radiance Field with 3D Prior Aided Audio Disentanglement for Talking Head Synthesis
+# Uncertainty-Aware 3D Emotional Talking Face Synthesis with Emotion Prior Distillation
 
 <p align="center"><em>Nanhan Shen, Zhilei Liu</em></p>
 <p align="center">College of Intelligence and Computing, Tianjin University, Tianjin, China</p>
