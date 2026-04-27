@@ -23,10 +23,10 @@
 ## Brief Introducing
 ---
 
-<div style="text-align: justify;">
-  Video coming soon!
-</div>
-
+<video style="width: 100%; height: 100%; margin: 0 auto;" controls>
+  <source src="Demo-cut1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
  
 ## Abstract & Method
 ---
