@@ -25,7 +25,6 @@
 
 <video style="width: 100%; height: 100%; margin: 0 auto;" controls>
   <source src="Demo-cut.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
  
 ## Abstract & Method
